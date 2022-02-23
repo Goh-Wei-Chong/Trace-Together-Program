@@ -15,6 +15,10 @@ SHN stay.
 4. Advanced - This section is additional features for the assignment. The user can have a contact tracing report, view SHN status reports and check out of all locations 
 for visitors.
 
+## Technologies Used
+- Visual Studio Code was the app we used to create my website.
+- 
+
 ## API
 The program makes use of this [API](https://covidmonitoringapiprg2.azurewebsites.net/facility) to get the details of the SHN facilities.
 
